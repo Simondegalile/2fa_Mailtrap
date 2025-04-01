@@ -1,0 +1,68 @@
+2025-03-30 11:42:44,238 - INFO - Base de données initialisée / Vérifiée.
+2025-03-30 11:42:55,476 - INFO - simon - Login attempt FAILED
+2025-03-30 11:44:19,483 - INFO - Base de données initialisée / Vérifiée.
+2025-03-30 11:44:31,618 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-03-30 11:45:50,902 - INFO - Base de données initialisée / Vérifiée.
+2025-03-30 11:53:27,964 - INFO - Base de données initialisée / Vérifiée.
+2025-03-30 11:53:35,584 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-03-30 11:53:41,394 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-03-30 12:08:59,527 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-03-30 12:09:29,059 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-03-30 12:11:55,241 - INFO - Base de données initialisée / Vérifiée.
+2025-03-30 12:11:59,649 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 11:51:33,783 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 11:51:38,129 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 12:20:25,932 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:29:56,770 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:36:54,345 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:37:56,880 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:38:12,799 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:39:07,774 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:55:57,722 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 12:59:16,182 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 13:26:10,960 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 13:27:56,686 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 13:35:57,196 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 13:42:49,902 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 13:42:58,477 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 13:44:17,341 - INFO - simon - Password reset successfully.
+2025-04-01 13:44:24,733 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 13:44:30,531 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 15:11:32,195 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:11:36,885 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:11:52,531 - INFO - simon - Password reset successfully.
+2025-04-01 15:12:00,502 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 15:23:17,128 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:23:22,401 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:23:50,476 - INFO - simon - Password reset successfully.
+2025-04-01 15:23:55,253 - INFO - simonalmeidadasilva@gmail.com - Login attempt FAILED
+2025-04-01 15:24:31,988 - INFO - testuser - Login attempt FAILED
+2025-04-01 15:29:47,268 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:29:51,941 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:30:07,242 - INFO - simon - Password reset successfully.
+2025-04-01 15:30:16,539 - INFO - simon - Login attempt (password OK). Code 2FA envoyé.
+2025-04-01 15:30:28,185 - INFO - simon - 2FA validated. User logged in.
+2025-04-01 15:30:51,092 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:30:55,135 - INFO - simon - Logout
+2025-04-01 15:31:02,838 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:31:22,156 - INFO - simon - Password reset successfully.
+2025-04-01 15:31:29,986 - INFO - simon - Login attempt (password OK). Code 2FA envoyé.
+2025-04-01 15:31:40,567 - INFO - simon - 2FA validated. User logged in.
+2025-04-01 15:33:10,017 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:33:10,199 - INFO - simon - Logout
+2025-04-01 15:36:40,570 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:36:49,658 - INFO - simon - Login attempt FAILED
+2025-04-01 15:36:55,699 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:37:11,815 - INFO - simon - Password reset successfully.
+2025-04-01 15:37:21,888 - INFO - simon - Login attempt (password OK). Code 2FA envoyé.
+2025-04-01 15:37:33,496 - INFO - simon - 2FA FAILED
+2025-04-01 15:37:36,764 - INFO - simon - 2FA validated. User logged in.
+2025-04-01 15:43:09,999 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:43:44,326 - INFO - Base de données initialisée / Vérifiée.
+2025-04-01 15:43:57,438 - INFO - simon - Login attempt FAILED
+2025-04-01 15:44:04,488 - INFO - simon - Password reset requested. Email sent.
+2025-04-01 15:44:25,230 - INFO - simon - Password reset successfully.
+2025-04-01 15:44:33,037 - INFO - simon - Login attempt (password OK). Code 2FA envoyé.
+2025-04-01 15:44:44,748 - INFO - simon - 2FA FAILED
+2025-04-01 15:44:52,451 - INFO - simon - 2FA validated. User logged in.
+2025-04-01 15:45:00,083 - INFO - simon - Logout

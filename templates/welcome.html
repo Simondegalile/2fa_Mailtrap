@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bienvenue</title>
+  </head>
+  <body>
+    <h1>Bienvenue {{ username }} (Rôle: {{ role }})</h1>
+    <p>Ceci est la page d'accueil protégée.</p>
+    <p><a href="{{ url_for('logout') }}">Se déconnecter</a></p>
+    {% if role == "admin" %}
+      <p><a href="{{ url_for('admin_panel') }}">Accéder à l'admin panel</a></p>
+    {% endif %}
+
+  </body>
+</html>

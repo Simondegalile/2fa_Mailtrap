@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Double Authentification</title>
+  </head>
+  <body>
+    <h1>Double Authentification</h1>
+    <p>Un code à 6 chiffres vous a été envoyé par email.</p>
+    <form method="POST">
+      <label for="code">Entrez le code à 6 chiffres:</label>
+      <input type="text" name="code" maxlength="6" required>
+      <button type="submit">Valider</button>
+    </form>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul>
+          {% for message in messages %}
+            <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+  </body>
+</html>
